@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="130" height="156" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+
+<!-- copyright c unrealme ->2018.2.20-->
+<!-- 128*150 -->
+
+
+<polygon points="15,40 35,102 65,2"
+style="fill:#333333;
+stroke:#eeeeee;stroke-width:1;stroke-linejoin:round"/> 
+<polygon points="35,102 65,2 95,102"
+style="fill:#555555;
+stroke:#eeeeee;stroke-width:1;stroke-linejoin:round"/> 
+<polygon points="65,2 95,102 115,40"
+style="fill:#333333;
+stroke:#eeeeee;stroke-width:1;stroke-linejoin:round"/> 
+
+<polygon points="35,102 65,152 95,102"
+style="fill:#333333;
+stroke:#eeeeee;stroke-width:1;stroke-linejoin:round"/> 
+
+<polygon points="15,40 1,120 35,102"
+style="fill:#111111;
+stroke:#eeeeee;stroke-width:1;stroke-linejoin:round"/> 
+<polygon points="115,40 95,102 129,120"
+style="fill:#111111;
+stroke:#eeeeee;stroke-width:1;stroke-linejoin:round"/> 
+
+<polygon points="35,102 1,120 65,152"
+style="fill:#111111;
+stroke:#eeeeee;stroke-width:1;stroke-linejoin:round"/> 
+<polygon points="95,102 65,152 129,120"
+style="fill:#111111;
+stroke:#eeeeee;stroke-width:1;stroke-linejoin:round"/> 
+
+</svg>
