@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="160" height="143" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+
+<!-- copyright c 2018.2.20-->
+
+<polygon points="20,116 30,133 80,92"
+style="fill:none;
+stroke:#eeeeee;stroke-width:2;stroke-linejoin:round"/> 
+
+<polygon points="130,133 140,116 80,92"
+style="fill:none;
+stroke:#eeeeee;stroke-width:2;stroke-linejoin:round"/> 
+
+<polygon points="70,27 90,27 80,92"
+style="fill:none;
+stroke:#eeeeee;stroke-width:2;stroke-linejoin:round"/> 
+
+
+
+
+<polygon points="20,116 80,92 70,27"
+style="fill:none;
+stroke:#eeeeee;stroke-width:2;stroke-linejoin:round"/> 
+
+<polygon points="30,133 80,92 130,133"
+style="fill:none;
+stroke:#eeeeee;stroke-width:2;stroke-linejoin:round"/> 
+
+<polygon points="140,116 80,92 90,27"
+style="fill:none;
+stroke:#eeeeee;stroke-width:2;stroke-linejoin:round"/> 
+
+
+
+
+<polygon points="73,46.5 80,92 40,108"
+style="fill:none;
+stroke:#eeeeee;stroke-width:2;stroke-linejoin:round"/> 
+
+<polygon points="87,46.5 80,92 120,108"
+style="fill:none;
+stroke:#eeeeee;stroke-width:2;stroke-linejoin:round"/> 
+
+<polygon points="46.66,119.33 80,92 113.33,119.33"
+style="fill:none;
+stroke:#eeeeee;stroke-width:2;stroke-linejoin:round"/> 
+
+
+<!-- centra -->
+
+<polygon points="80,82 88.66,87 88.66,97 80,102 71.33,97 71.33,87"
+style="fill:#e00;
+stroke:#eeeeee;stroke-width:2;stroke-linejoin:round"/> 
+
+
+<!-- <polygon points="76,66 80,92 60,100"
+style="fill:#none;
+stroke:#ffffff;stroke-width:2;stroke-linejoin:round"/> 
+
+<polygon points="84,66 80,92 100,100"
+style="fill:#none;
+stroke:#ffffff;stroke-width:2;stroke-linejoin:round"/>  -->
+
+<!-- <polygon points="63.33,105.66 80,92 96.66,105.66"
+style="fill:none;
+stroke:#ffffff;stroke-width:2;stroke-linejoin:round"/>  -->
+</svg>
